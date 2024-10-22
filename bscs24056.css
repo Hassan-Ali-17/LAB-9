@@ -1,0 +1,28 @@
+div{
+
+    background-color: rgb(213, 156, 21);
+    
+    Width: 500px;
+    Height: 500px;
+     
+     Border-width: 3px;
+     border-color: rgb(38, 15, 169);
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+    }
+    
+    
+    
+    .hobies{
+        background-color: rgb(148, 182, 194);
+        color : purple;
+        Width: 500px;
+    Height: 500px;
+     
+     Border-width: 3px;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+    
+    }
